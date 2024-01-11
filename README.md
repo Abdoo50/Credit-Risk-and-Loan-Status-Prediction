@@ -3,19 +3,11 @@
 ## Overview
 This repository contains the code and dataset for a machine learning project focused on Credit Risk Analysis and Loan Status Prediction. The primary objective is to build a model that can accurately predict the likelihood of loan default based on various financial indicators.
 
-## Features
-- Analysis of financial data related to loan applications.
-- Data preprocessing and feature engineering techniques.
-- Implementation of machine learning models for classification.
-- Evaluation of model performance using metrics such as accuracy, precision, and recall.
-
-## Dataset
-The dataset used in this project includes various financial attributes such as age, education, employment history, income, debt, credit history, and loan default status.
 <p style="text-align: center;">
-    <img src="attachment:3a112ed0-ae94-4335-8676-b0cb82c1cdf6.png" alt="image1"/>
+    <img src="attachment:3a112ed0-ae94-4335-8676-b0cb82c1cdf6.png" alt="Financial Services Project"/>
 </p>
 
-**Context of the Problem**
+## **Context of the Problem**
 
 One of the leading banks would like to predict bad customer while customer applying for loan. This model also called as PD Models (Probability of Default)
 
@@ -25,7 +17,14 @@ A lender commonly makes two types of decisions: first, whether to grant credit t
 
 Typical application areas in the consumer market include: credit cards, auto loans, home mortgages, home equity loans, mail catalog orders, and a wide variety of personal loan products.
 
+## Features
+- Analysis of financial data related to loan applications.
+- Data preprocessing and feature engineering techniques.
+- Implementation of machine learning models for classification.
+- Evaluation of model performance using metrics such as accuracy, precision, and recall.
 
+## Dataset
+The dataset used in this project includes various financial attributes such as age, education, employment history, income, debt, credit history, and loan default status.
 
 The dataset contains the following columns:
 
