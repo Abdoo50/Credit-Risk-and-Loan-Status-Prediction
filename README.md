@@ -4,7 +4,7 @@
 This repository contains the code and dataset for a machine learning project focused on Credit Risk Analysis and Loan Status Prediction. The primary objective is to build a model that can accurately predict the likelihood of loan default based on various financial indicators.
 
 <p style="text-align: center;">
-    <img src="attachment:3a112ed0-ae94-4335-8676-b0cb82c1cdf6.png" alt="Financial Services Project"/>
+    <img src="https://github.com/Abdoo50/Credit-Risk-and-Loan-Status-Prediction/raw/main/Financial%20Services%20Logo.png" alt="Financial Services Project"/>
 </p>
 
 ## **Context of the Problem**
