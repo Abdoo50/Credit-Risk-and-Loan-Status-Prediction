@@ -7,6 +7,10 @@ This repository contains the code and dataset for a machine learning project foc
     <img src="https://github.com/Abdoo50/Credit-Risk-and-Loan-Status-Prediction/raw/main/Financial%20Services%20Logo.png" alt="Financial Services Project"/>
 </p>
 
+## Project Report
+For detailed insights and analysis, refer to the [Bank Loans Report](https://github.com/Abdoo50/Credit-Risk-and-Loan-Status-Prediction/blob/main/bankloans_report.html).
+
+
 ## **Context of the Problem**
 
 One of the leading banks would like to predict bad customer while customer applying for loan. This model also called as PD Models (Probability of Default)
