@@ -68,8 +68,8 @@ Navigate to the Jupyter notebook `credit-risk-analysis-and-classification.ipynb`
 ## Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your proposed changes.
 
-## License
-[Specify the license or state 'This project is licensed under the MIT License - see the LICENSE.md file for details']
+## kaggle Notebook
+[My Notebook at Kaggle](https://www.kaggle.com/code/abdoashour/credit-risk-analysis-and-classification#Data-Preprocessing)
 
 ## Contact
 For any queries or discussions related to this project, please contact:
